@@ -7,7 +7,7 @@ ios_app_country                           : us                                  
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
@@ -20,13 +20,13 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Sufiyan Yasa                               
-your_link                                 : https://sufiyanyasa.com                     
-your_city                                 : Malaysia                       
+your_name                                 : Sufiyan Yasa
+your_link                                 : https://sufiyanyasa.com
+your_city                                 : Malaysia
 email_address                             : me@sufiyanyasa.com
-facebook_username                         :                                           
-instagram_username                        : 
-twitter_username                          : sufiyanysa
+facebook_username                         :
+instagram_username                        :
+twitter_username                          : sufiyanyasa
 github_username                           : xr1337
 youtube_username                          :
 
@@ -38,7 +38,7 @@ features                                  :
   - title                                 : Customizable scroll speed
     description                           : Adjust the speed to find the perfect pace for your reading preferences.
     fontawesome_icon_name                 : magic
-    
+
   - title                                 : Smooth, seamless scrolling experience
     description                           : Enjoy a smooth, seamless scrolling experience with no jarring movements.
     fontawesome_icon_name                 : mobile
@@ -54,7 +54,7 @@ features                                  :
   - title                                 : Auto-stop at the end of the page
     description                           : The extension will automatically stop scrolling when it reaches the end of the page.
     fontawesome_icon_name                 : adjust
-  
+
   - title                                 : Easy-to-use interface
     description                           : A simple, intuitive interface makes it easy for anyone to use the extension.
     fontawesome_icon_name                 : star
