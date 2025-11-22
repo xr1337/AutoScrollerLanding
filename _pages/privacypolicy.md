@@ -5,13 +5,13 @@ include_in_header: false
 ---
 
 **Last updated**
-December 8 2022
+November 22 2025
 
 # Privacy Policy
 
 ## 1.0 Information We Collect
-Auto Scroller ( web extension ) does not collect anything.
-Auto Scroller ( web extension ) does not send any data from or to your device. All functionality is performed on your device. There are no analytics.
+Auto Scroll: Gilda ( web extension ) does not collect anything.
+Auto Scroll: Gilda ( web extension ) does not send any data from or to your device. All functionality is performed on your device. There are no analytics.
 
 If we add any tracking in the future we will let you know, but even then it will be for the functionality of the app, and not for marketing / data collection.
 
